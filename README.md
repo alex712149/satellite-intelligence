@@ -1,5 +1,9 @@
 # Satellite Intelligence — Backend Automation (SIH 26227)
 
+
+
+
+
 Semantic retrieval + multi-temporal change analysis over satellite
 imagery. This repo is **backend automation only**, deliberately, per
 the current build phase: prove the pipeline works and is testable
